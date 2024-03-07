@@ -1,0 +1,26 @@
+﻿  Collision.cpp
+  audience.cpp
+  bullet.cpp
+  camera.cpp
+  enemy.cpp
+C:\Users\student\Desktop\2024_Action_Git\2024_Action_0\2024_Project0\enemy.cpp(242,27): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\student\Desktop\2024_Action_Git\2024_Action_0\2024_Project0\enemy.cpp(246,29): warning C4244: '-=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\student\Desktop\2024_Action_Git\2024_Action_0\2024_Project0\enemy.cpp(1114,15): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  lifegage.cpp
+  meshfield.cpp
+C:\Users\student\Desktop\2024_Action_Git\2024_Action_0\2024_Project0\meshfield.cpp(499,9): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\student\Desktop\2024_Action_Git\2024_Action_0\2024_Project0\meshfield.cpp(500,9): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+  orbit.cpp
+  player.cpp
+C:\Users\student\Desktop\2024_Action_Git\2024_Action_0\2024_Project0\player.cpp(324,38): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\student\Desktop\2024_Action_Git\2024_Action_0\2024_Project0\player.cpp(1656,35): warning C4244: '+=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\student\Desktop\2024_Action_Git\2024_Action_0\2024_Project0\player.cpp(1669,19): warning C4244: '*=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\student\Desktop\2024_Action_Git\2024_Action_0\2024_Project0\player.cpp(1676,14): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\student\Desktop\2024_Action_Git\2024_Action_0\2024_Project0\player.cpp(1678,81): warning C4244: '+=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  renderer.cpp
+C:\Users\student\Desktop\2024_Action_Git\2024_Action_0\2024_Project0\renderer.cpp(164,59): warning C4244: '引数': 'float' から 'UINT' への変換です。データが失われる可能性があります。
+C:\Users\student\Desktop\2024_Action_Git\2024_Action_0\2024_Project0\renderer.cpp(164,38): warning C4244: '引数': 'float' から 'UINT' への変換です。データが失われる可能性があります。
+C:\Users\student\Desktop\2024_Action_Git\2024_Action_0\2024_Project0\renderer.cpp(257,21): warning C4101: 'pBrightBuffer': ローカル変数は 1 度も使われていません。
+  scene.cpp
+  コードを生成中...
+  C++Game_basis.vcxproj -> C:\Users\student\Desktop\2024_Action_Git\2024_Action_0\2024_Project0\Debug\C++Game_basis.exe
